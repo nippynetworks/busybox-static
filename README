@@ -1,0 +1,3 @@
+Static builds of busybox for various architectures
+
+Useful if you need to build a rescuesystem or initramfs in a hurry
