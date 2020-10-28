@@ -1,0 +1,7 @@
+Static builds of busybox for various architectures
+
+Useful if you need to build a rescuesystem or initramfs in a hurry
+
+These are version 1.31.0
+Source:
+  https://busybox.net/downloads/binaries/1.31.0-defconfig-multiarch-musl/
